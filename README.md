@@ -26,7 +26,7 @@ perintah diatas berarti **MySQL host:127.0.0.1 user:root pass:kosong**.
   </p>
 
       # Membuat Database
-      create database Walfu1
+      create database Walfu1;
 
 **create database [yourdb]** merupakan perintah untuk membuat database.
 
